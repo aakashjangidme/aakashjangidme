@@ -1,6 +1,9 @@
-# 💫 About Me:
-Gettin' my hands dirty w/ microservices. 
+# 👋 Hi, I'm Aakash Jangid
 
+🚀 Exploring the world of Generative AI and building robust backend systems.  
+🛠️ Passionate about scalable architecture, automation, and clean code.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aakashjangidme) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashjangidme) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aakashjangidme) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aakashjangidme) 
@@ -25,7 +28,7 @@ Gettin' my hands dirty w/ microservices.
 ![](https://github-contributor-stats.vercel.app/api?username=aakashjangidme&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="400px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aakashjangidme&icon=0&color=0)](https://visitcount.itsvg.in)
